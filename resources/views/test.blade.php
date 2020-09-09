@@ -83,6 +83,7 @@
 					<!-- <p>LOGO</p> -->
 					<img class='w-2/5' src="img/logo.png">
 				</div>
+				<!-- list-menu -->
 				<div class="float-right col-9 font-bold">
 					<ul class="flex space-x-5 text-white" style="
 					justify-content: flex-end;">
